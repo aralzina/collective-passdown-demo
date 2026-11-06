@@ -1,6 +1,8 @@
 # collective-passdown-demo
 Interactive demo of Collective Passdown, a configuration-driven semiconductor manufacturing operations platform integrating equipment status, maintenance, work orders, and operational priorities.
 
+
+
 # Collective Passdown
 ### A Configurable Semiconductor Manufacturing Operations Platform
 
@@ -13,6 +15,13 @@ What began as a solution for one manufacturing area evolved into a configurable 
 This repository contains a **standalone demonstration using simulated manufacturing data**, designed to showcase the application's interface, functionality, and underlying engineering concepts without requiring access to production systems.
 
 ---
+
+###  Live Interactive Demo
+[Launch Collective Passdown](https://aralzina.github.io/collective-passdown-demo/)
+
+Explore the application using simulated semiconductor manufacturing data.
+No login or installation required.
+
 
 ## The Problem
 
